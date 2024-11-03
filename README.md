@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi my name is alireza rezaeifard <br>i was born at 2002 june 28 in iran <br>I am currently a computer student<br>I am currently learning the Django framework<br>And I am a Python programmer
+hi my name is alireza rezaeifard <br>i was born at 2002 june 28 in iran <br>I am currently a computer student<br>im a python programmer and currently working with django framework<br>i'm currently learning java script and C#
 
 
 ## 🌐 Socials:
