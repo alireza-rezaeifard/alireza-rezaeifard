@@ -1,145 +1,171 @@
-# 👨‍💻 Alireza Rezaeifard
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+Specialist;Python+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  
+# ⚡️ Alireza Rezaeifard ⚡️
+
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=Backend+Developer+%F0%9F%92%BB;Django+Specialist+%F0%9F%94%A5;Python+Enthusiast+%F0%9F%90%8D;Computer+Science+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://discord.gg/_pashmam"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/></a>
+  <a href="https://instagram.com/symphony______no9"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
+  <a href="https://twitter.com/unknown______81"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alireza-rezaeifard&style=for-the-badge&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/alireza-rezaeifard?style=for-the-badge&logo=github)](https://github.com/alireza-rezaeifard)
+
 </div>
 
-> 🎓 Building robust backends since 2021 | Born June 28, 2002 | Iran 🇮🇷
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_pashmam)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/symphony______no9)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/unknown______81)
-[![Profile Views](https://visitcount.itsvg.in/api?id=alireza-rezaeifard&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-## 🌟 About Me
+## 🧑‍💻 About Me
 
 ```python
-class AlirezaRezaeifard:
+#!/usr/bin/env python
+import datetime
+
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Alireza Rezaeifard"
-        self.birth_date = datetime.date(2002, 6, 28)
-        self.location = "Iran"
-        self.education = {
-            "major": "Computer Science",
-            "status": "Undergraduate Student"
-        }
-        self.interests = ["Backend Development", "System Design", "AI"]
-    
-    def get_current_status(self):
-        return {
-            "primary_stack": ["Python", "Django", "DRF"],
-            "learning": ["JavaScript", "C#"],
-            "databases": ["MySQL", "SQLite", "PostgreSQL"],
-            "currently": "Building awesome web applications"
+        self.title = "Backend Developer"
+        self.birth = datetime.datetime(2002, 6, 28)
+        self.location = "Iran 🇮🇷"
+        self.languages = {
+            "Persian": "Native",
+            "English": "Professional"
         }
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing together!")
+    @property
+    def skills(self):
+        return {
+            "Backend": {
+                "Python": ["Django", "DRF", "FastAPI"],
+                "Databases": ["MySQL", "SQLite", "PostgreSQL"],
+                "Tools": ["Git", "Docker", "Redis"]
+            },
+            "Learning": ["JavaScript", "C#"],
+            "Interests": ["System Design", "AI", "Clean Code"]
+        }
+        
+    @property
+    def life_motto(self):
+        return "Code is poetry written in logic."
+
+me = SoftwareEngineer()
 ```
 
-## 💻 Tech Stack & Tools
+## 🛠️ Technology Arsenal
 
-### Backend & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/REST_API-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
-</p>
+<div align="center">
+  
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Learning-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Frontend & Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Basic-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-Learning-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-Learning-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
+### Learning Journey
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+</div>
 
-## 📊 GitHub Analytics
+## 📊 Performance Metrics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alireza-rezaeifard&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-rezaeifard&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alireza-rezaeifard&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-rezaeifard&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-rezaeifard&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-rezaeifard&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alireza-rezaeifard&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
+## 🏆 Achievements Showcase
+![Trophy](https://github-profile-trophy.vercel.app/?username=alireza-rezaeifard&theme=tokyonight&no-frame=true&row=1&margin-w=20)
 
 ## 🚀 Featured Projects
 
-### 📱 [Project Name 1]
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- Description of your awesome project
-- Key features and achievements
-- [View Project](#) | [Live Demo](#)
+<div align="center">
 
-### 💼 [Project Name 2]
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-- Description of another cool project
-- Technical challenges overcome
-- [View Project](#) | [Live Demo](#)
+<a href="your-repo-link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-rezaeifard&repo=your-repo-name&theme=tokyonight" />
+</a>
+<a href="your-repo-link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-rezaeifard&repo=your-repo-name&theme=tokyonight" />
+</a>
 
-## 📈 Weekly Coding Stats
+</div>
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alireza-rezaeifard&theme=tokyo-night&hide_border=true)
+
+## 💻 Coding Activity
 
 ```text
-Python       ██████████████████░░░░   80%
-Django       ████████████████░░░░░░   70%
-HTML         ██████░░░░░░░░░░░░░░░   30%
-JavaScript   ████░░░░░░░░░░░░░░░░░   20%
-C#           ███░░░░░░░░░░░░░░░░░░   15%
+Python       ███████████████████░░   85%
+Django       ██████████████████░░░   80%
+HTML         ██████░░░░░░░░░░░░░░   30%
+JavaScript   ████░░░░░░░░░░░░░░░░   20%
+C#           ███░░░░░░░░░░░░░░░░░   15%
 ```
 
-## 🎯 Current Goals
-- 🔧 Mastering Django REST Framework
-- 📚 Learning JavaScript for Full-Stack Development
-- 🌱 Exploring C# and .NET Ecosystem
-- 🎓 Excelling in Computer Science Studies
-- 🚀 Contributing to Open Source Projects
+## 🎯 Current Focus
 
-## 💡 Fun Facts
-- 🎮 Coding while listening to classical music
-- 📚 Love reading tech blogs and documentation
-- ☕ Powered by coffee and algorithms
-- 🌍 Dream of creating impactful software solutions
+- 🔥 Mastering Django REST Framework and API Development
+- 📚 Deep diving into JavaScript for Full-Stack capabilities
+- 🌱 Exploring C# and .NET ecosystem
+- 🎓 Advancing in Computer Science studies
+- 🤝 Building a strong developer network
 
-## 📫 Connect With Me
+## 🌟 Fun Facts
 
-<p align="center">
-  <a href="https://discord.gg/_pashmam">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://instagram.com/symphony______no9">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/unknown______81">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+- 🎵 Classical music enhances my coding flow
+- 📚 Tech documentation is my bedtime reading
+- ☕ Fueled by coffee and clean code
+- 🌍 Dreaming of creating world-changing software
+- 🎮 Gaming breaks boost productivity
+
+## 📌 Personal Achievements
+
+- 🏆 [Add your achievements]
+- 🌟 [Add your certifications]
+- 🎓 [Add your academic accomplishments]
+
+## 🔮 Future Goals
+
+- 📱 Building scalable applications
+- 🤖 Exploring AI integration in web apps
+- 🌐 Contributing to major open-source projects
+- 📚 Mentoring aspiring developers
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://discord.gg/_pashmam" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new.png"/></a>
+  <a href="https://instagram.com/symphony______no9" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://twitter.com/unknown______81" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  ### 🎯 "Every commit is a step towards excellence" 🎯
 </div>
 
-<div align="center">
-  <i>🚀 The only way to do great work is to love what you do! 🚀</i>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
 </div>
 
 <!--
-Fun fact: This profile README is constantly evolving, just like my coding journey!
-Last updated: 2024
+✨ Fun Fact: This README is my digital garden, always growing! 🌱
+Last Updated: November 2024
 -->
