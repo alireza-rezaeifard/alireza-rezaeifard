@@ -76,7 +76,7 @@ me = BackendDeveloper()
 <p>
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=222222" />
   <img src="https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white&labelColor=222222" />
-  <img src="https://img.shields.io/badge/REST_APIs-Intermediate-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=222222" />
+  <img src="https://img.shields.io/badge/REST_APIs-laerning-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=222222" />
 </p>
 
 ### 💾 Databases
